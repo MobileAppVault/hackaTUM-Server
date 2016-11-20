@@ -5,11 +5,9 @@ Server Backend for MachtSpass iOS App!
 Read more about the project here: [https://github.com/ffittschen/hackaTUM]
 
 # Videos
-[[ https://github.com/MobileAppVault/hackaTUM-Server/blob/master/media/MachtSpa%C3%9F%20-%20Part%201%20-%20Question.gif | height = 100px ]]
-
 ![Question - Buyer](https://github.com/MobileAppVault/hackaTUM-Server/blob/master/media/MachtSpa%C3%9F%20-%20Part%201%20-%20Question.gif)
 
-![Answer - Club Member](https://github.com/MobileAppVault/hackaTUM-Server/blob/master/media/MachtSpa%C3%9F%20-%20Part%202%20-%20%20Answer.gif|height=100px)
+![Answer - Club Member](https://github.com/MobileAppVault/hackaTUM-Server/blob/master/media/MachtSpa%C3%9F%20-%20Part%202%20-%20%20Answer.gif)
 
 # Infrastructure
 
