@@ -1,24 +1,13 @@
-# Demo
 
-Purchaser
-- Peter
-- Marcus
+# MachtSpass - Server
 
-User 
-- Florian
+Server Backend for MachtSpass iOS App!
+Read more about the project here: [https://github.com/ffittschen/hackaTUM]
 
-Products
+# Videos
 
-    - productid: uuid
-    - title: APPLE iPhone 7 32 GB Schwarz
-    - content: Betriebssystem: iOS 10 Prozessor: A10 Fusion Chip mit 64‑Bit Architektur, Integrierter M10 Motion Coprozessor...
-    - image: http://picscdn.redblue.de/doi/pixelboxx-mss-72006882/fee_325_225_png/APPLE-iPhone-7-32-GB-Schwarz-
-    - price: 759
-
-Ratings generieren für Producte
-
-/api/v1/demoproducts
-
+(Question Video)[https://www.dropbox.com/s/u9yld7381dykeyk/MachtSpa%C3%9F%20-%20Part%201%20-%20Question.mov?dl=0]
+(Answer Video)[https://www.dropbox.com/s/3kdoum39r5bpv1f/MachtSpa%C3%9F%20-%20Part%202%20-%20%20Answer.mov?dl=0]
 
 # Infrastructure
 
@@ -39,8 +28,14 @@ Ratings generieren für Producte
 # Open Todos
 
 - Mongoose -> use related database item with ref 
-- API Authentication ( API_KEY/ TOKEN )
+- REST API Authentication ( API_KEY/ TOKEN )
 - Azure Analitics Services
+
+# Credits
+
+    (Node-APN)[https://github.com/node-apn/node-apn] - Copyright (c) 2010 Andrew Naylor
+    (ExpressJS)[http://expressjs.com/] - Copyright © 2016 StrongLoop, IBM, and other expressjs.com contributors.
+    (Node.js)[https://nodejs.org/en/] Copyright © 2016 Joyent.
 
 ---
 
@@ -48,15 +43,15 @@ Ratings generieren für Producte
 
 ## inspect data
 
-[http://machtspass-server.azurewebsites.net/api/v1/profiles]
+[/api/v1/profiles]
 
-[http://machtspass-server.azurewebsites.net/api/v1/products]
+[/api/v1/products]
 
-[http://machtspass-server.azurewebsites.net/api/v1/questions]
+[/api/v1/questions]
 
-[http://machtspass-server.azurewebsites.net/api/v1/answers]
+[/api/v1/answers]
 
-[http://machtspass-server.azurewebsites.net/api/v1/ratings?page=1&limit=10]
+[/api/v1/ratings?page=1&limit=10]
 
 ## Initial Setup (triggered manualy)
 
