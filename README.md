@@ -6,11 +6,9 @@ Read more about the project here: [https://github.com/ffittschen/hackaTUM]
 
 # Videos
 
-![Question Video](https://www.dropbox.com/s/u9yld7381dykeyk/MachtSpa%C3%9F%20-%20Part%201%20-%20Question.mov?dl=0)
-![Answer Video](https://www.dropbox.com/s/3kdoum39r5bpv1f/MachtSpa%C3%9F%20-%20Part%202%20-%20%20Answer.mov?dl=0)
+![Question - Buyer](https://github.com/MobileAppVault/hackaTUM-Server/blob/master/media/MachtSpa%C3%9F%20-%20Part%201%20-%20Question.gif)
 
-![Alt Text](https://github.com/MobileAppVault/hackaTUM-Server/blob/master/media/MachtSpa%C3%9F%20-%20Part%201%20-%20Question.gif)
-
+![Answer - Club Member](https://github.com/MobileAppVault/hackaTUM-Server/blob/master/media/MachtSpa%C3%9F%20-%20Part%202%20-%20%20Answer.gif)
 
 # Infrastructure
 
@@ -36,9 +34,9 @@ Read more about the project here: [https://github.com/ffittschen/hackaTUM]
 
 # Credits
 
-    (Node-APN)[https://github.com/node-apn/node-apn] - Copyright (c) 2010 Andrew Naylor
-    (ExpressJS)[http://expressjs.com/] - Copyright © 2016 StrongLoop, IBM, and other expressjs.com contributors.
-    (Node.js)[https://nodejs.org/en/] Copyright © 2016 Joyent.
+[Node-APN](https://github.com/node-apn/node-apn) - Copyright © 2010 Andrew Naylor
+[ExpressJS](http://expressjs.com/) - Copyright © 2016 StrongLoop, IBM, and other expressjs.com contributors.
+[Node.js](https://nodejs.org/en/) Copyright © 2016 Joyent.
 
 ---
 
